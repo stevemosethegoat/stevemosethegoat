@@ -11,7 +11,7 @@ I thrive in environments where I can apply my problem-solving skills to complex 
 
 ### 🛠️ Technical Skills
 
-*   **Programming Languages:** Python (Pandas, NumPy), SQL, Scala (Basics)
+*   **Programming Languages:** Python (Pandas, NumPy), SQL
 *   **Data Warehousing:** BigQuery, Snowflake, Redshift
 *   **Big Data Technologies:** Apache Spark, Apache Airflow, Hadoop (HDFS)
 *   **Database Systems:** PostgreSQL, MySQL, SQL Server
