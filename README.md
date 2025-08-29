@@ -27,10 +27,3 @@ I thrive in environments where I can apply my problem-solving skills to complex 
 ---
 
 ### 📫 Let's Connect!
-
-I'm always happy to connect with fellow data professionals, discuss new opportunities, or share ideas.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/stevemose/)
-[![Email](https://img.shields.io/badge/Email-Reach%20out%20to%20me-red?style=for-the-badge&logo=gmail)](mailto:your-email@domain.com) *(Replace with your email)*
-
----
