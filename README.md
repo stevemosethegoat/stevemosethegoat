@@ -1,54 +1,28 @@
+<h3 align="center">A passionate DataEngineer from kenya</h3>
 
-# Hello, I'm Steve Mose 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=stevemosethegoat&label=Profile%20views&color=0e75b6&style=flat" alt="stevemosethegoat" /> </p>
 
-### 📊 Data Engineer | 🧮 Mathematician | 📈 Data Enthusiast
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stevemosethegoat" alt="stevemosethegoat" /></a> </p>
 
-I am a detail-oriented and analytical Data Engineer with a strong academic foundation in **Mathematics** from **Maseno University**. My passion lies in building robust, scalable, and efficient data infrastructure that transforms raw data into actionable insights and powers data-driven decision-making.
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-I thrive in environments where I can apply my problem-solving skills to complex data challenges, from designing ETL/ELT pipelines to optimizing data warehouses.
+- 🌱 I’m currently learning **python and rust**
 
----
+- 💬 Ask me about **python**
 
-### 🛠️ Technical Skills
+- 📫 How to reach me **smose604@gmail.com**
 
-*   **Programming Languages:** Python (Pandas, NumPy), SQL
-*   **Data Warehousing:** BigQuery, Snowflake, Redshift
-*   **Big Data Technologies:** Apache Spark, Apache Airflow, Hadoop (HDFS)
-*   **Database Systems:** PostgreSQL, MySQL, SQL Server
-*   **Cloud Platforms:** Google Cloud Platform (GCP), AWS
-*   **Version Control & CI/CD:** Git, GitHub, Docker
-*   **Visualization Tools:** Metabase, Tableau, Looker
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/steve mose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="steve mose" height="30" width="40" /></a>
+<a href="https://instagram.com/steve_.mose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="steve_.mose" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-### 🧠 What I'm Up To
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stevemosethegoat&show_icons=true&locale=en&layout=compact" alt="stevemosethegoat" /></p>
 
-*   🔭 I’m currently working on building end-to-end data pipelines on cloud platforms.
-*   🌱 I’m continuously learning about **real-time data processing** and **advanced data architecture** patterns.
-*   💡 I'm interested in open-source data engineering projects and data for social good.
-*   👯 I’m looking to collaborate on innovative data projects and open-source tools.
-*   🤔 I’m always open to discussing data engineering, mathematics, and technology.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stevemosethegoat&show_icons=true&locale=en" alt="stevemosethegoat" /></p>
 
----
-
-### 📫 Let's Connect!
-
-I'm always happy to connect with fellow data professionals, discuss new opportunities, or share ideas.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/steve-mose-a69889380/)
-[![Email](https://img.shields.io/badge/Email-Reach%20out%20to%20me-red?style=for-the-badge&logo=gmail)](mailto:smose604@gmail.com)
-
----
-
-### 📈 GitHub Stats
-
-[![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevemose)](https://github.com/stevemose/github-readme-stats)
-
-<a href="https://github.com/stevemose/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=stevemose&show_icons=true&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/stevemose/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stevemose&layout=compact&theme=radical&hide_border=true" />
-</a>
-
-*Thanks for visiting my profile! Have a great day!*
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stevemosethegoat&" alt="stevemosethegoat" /></p>
